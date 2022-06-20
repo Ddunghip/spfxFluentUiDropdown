@@ -1,0 +1,18 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/config.2.0.schema.json",
+  "version": "2.0",
+  "bundles": {
+    "fluent-ui-dropdown-web-part": {
+      "components": [
+        {
+          "entrypoint": "./lib/webparts/fluentUiDropdown/FluentUiDropdownWebPart.js",
+          "manifest": "./src/webparts/fluentUiDropdown/FluentUiDropdownWebPart.manifest.json"
+        }
+      ]
+    }
+  },
+  "externals": {},
+  "localizedResources": {
+    "FluentUiDropdownWebPartStrings": "lib/webparts/fluentUiDropdown/loc/{locale}.js"
+  }
+}

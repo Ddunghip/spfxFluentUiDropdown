@@ -1,0 +1,16 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "version": "1.14.0",
+    "libraryName": "fluent-ui-dropdown",
+    "libraryId": "4185d942-9f50-4bea-b4bb-98bab04c65d1",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "fluentUiDropdown",
+    "solutionShortDescription": "fluentUiDropdown description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}

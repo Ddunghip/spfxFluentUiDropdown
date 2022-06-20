@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "fluent-ui-dropdown-client-side-solution",
+    "id": "4185d942-9f50-4bea-b4bb-98bab04c65d1",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.14.0"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "fluentUiDropdown description"
+      },
+      "longDescription": {
+        "default": "fluentUiDropdown description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "fluent-ui-dropdown Feature",
+        "description": "The feature that activates elements of the fluent-ui-dropdown solution.",
+        "id": "0b03714f-2db1-4eee-9e21-7c54cde6cef8",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/fluent-ui-dropdown.sppkg"
+  }
+}
